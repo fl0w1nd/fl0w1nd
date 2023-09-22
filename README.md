@@ -2,6 +2,9 @@
 <!--my introduction start-->
 <!--my introduction end -->
 
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/uspe.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 <br>
 <p align="center">
   <a href="https://github.com/fl0w1nd" class="rich-diff-level-one">
@@ -11,4 +14,4 @@
     -->
   </a>
 </p>
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/uspe.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
