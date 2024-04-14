@@ -1,4 +1,4 @@
-## Hi, 👋  I'm ZHANG CHENG (fl0w1nd)
+## Hi, 👋  I'm fl0w1nd
 
 <h3 align="center">Code</h3>
 
