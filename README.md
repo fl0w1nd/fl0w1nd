@@ -5,7 +5,6 @@
 <p align="left">
 </p>
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/uspe.svg)](https://fl0api.betteruptime.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fl0w1nd&show_icons=true&locale=en&layout=compact" alt="fl0w1nd" /></p>
 
