@@ -42,5 +42,5 @@
 <h3 align="left">🧰 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,nginx,nodejs,bash,vim,githubactions&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,react,nodejs,git,linux,docker,nginx,bash,vim,githubactions&perline=12" alt="Tech stack icons" />
 </p>
